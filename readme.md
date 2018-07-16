@@ -2,7 +2,7 @@
 This repository contains Ethereum smart contracts with errors. These contracts are used as exercises for  [the training located here.](https://github.com/BostonCybernetics/slightly-smarter-contracts/wiki)
 
 
-## Learning Objectives
+<!-- ## Learning Objectives
 - Learn how to programmatically detect flaws in smart contracts
 - Discover features of Manticore that enable programmatic analysis
 - Find a bunch of bugs
@@ -16,4 +16,4 @@ This repository contains Ethereum smart contracts with errors. These contracts a
   - [Low level](integer_overflow/low_level)
 - [Unchecked External Calls](unchecked_external_call)
   - [Contrived Example](unchecked_external_call/representitive_example)
-  - [King of the Ether Throne](unchecked_external_call/KotET)
+  - [King of the Ether Throne](unchecked_external_call/KotET) -->
