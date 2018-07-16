@@ -1,5 +1,5 @@
 # Slightly Smarter Contracts
-This repository contains Ethereum smart contracts with errors.
+This repository contains Ethereum smart contracts with errors. These contracts are used as exercises for  [the training located here.](https://github.com/BostonCybernetics/slightly-smarter-contracts/wiki)
 
 
 ## Learning Objectives
