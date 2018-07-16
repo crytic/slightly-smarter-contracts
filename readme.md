@@ -1,5 +1,9 @@
 # Slightly Smarter Contracts
-This repository contains Ethereum smart contracts with errors. These contracts are used as exercises for  [the training located here.](https://github.com/BostonCybernetics/slightly-smarter-contracts/wiki)
+This repository contains Ethereum smart contracts with errors.
+
+## Get started
+1. Clone this repository `git clone git@github.com:BostonCybernetics/slightly-smarter-contracts.git`
+1. [Click here to begin training.](https://github.com/BostonCybernetics/slightly-smarter-contracts/wiki)
 
 
 <!-- ## Learning Objectives
