@@ -2,8 +2,8 @@
 This repository contains Ethereum smart contracts with errors.
 
 ## Get started
-1. Clone this repository `git clone git@github.com:BostonCybernetics/slightly-smarter-contracts.git`
-1. [Click here to begin training.](https://github.com/BostonCybernetics/slightly-smarter-contracts/wiki)
+1. Clone this repository `git clone git@github.com:trailofbits/slightly-smarter-contracts.git`
+1. [Click here to begin training.](https://github.com/trailofbits/slightly-smarter-contracts/wiki)
 
 
 <!-- ## Learning Objectives
