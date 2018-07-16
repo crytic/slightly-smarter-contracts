@@ -1,4 +1,6 @@
 # Slightly Smarter Contracts
+This repository contains Ethereum smart contracts with errors.
+
 
 ## Learning Objectives
 - Learn how to programmatically detect flaws in smart contracts
@@ -6,6 +8,9 @@
 - Find a bunch of bugs
 
 ## Progression
+- [Symbolic Analysis](symbolic_analysis)
+  - [Easy to Analyze](symbolic_analysis/easy)
+  - [Hard to Analyze](symbolic_analysis/hard)
 - [Integer Overflows](integer_overflow)
   - [High level](integer_overflow/high_level)
   - [Low level](integer_overflow/low_level)
